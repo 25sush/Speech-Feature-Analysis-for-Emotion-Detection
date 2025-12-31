@@ -33,3 +33,33 @@ This project demonstrates strong fundamentals in **audio data processing, patter
 
 ## 🧠 System Workflow
 
+
+---
+
+## 🛠️ Feature Engineering
+
+Extracted audio features:
+
+- **MFCC (Mel Frequency Cepstral Coefficients)** — primary emotion differentiator  
+- **Chroma Features** — captures tonal variations  
+- **Mel Spectrogram** — reflects energy distribution across frequencies  
+
+---
+
+## 🧰 Tech Stack
+
+| Component | Used Tools / Libraries |
+|---|---|
+| Dataset | TESS Speech Emotion Corpus |
+| Audio Processing | Librosa, NumPy |
+| ML Classifiers | Scikit-Learn Models |
+| Visualization | Matplotlib |
+| Development | Jupyter Notebook (`.ipynb`) |
+
+---
+
+## 🚀 Setup & Usage
+
+1. Clone the repository:
+```bash
+git clone <repo-link>
